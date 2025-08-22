@@ -112,9 +112,9 @@ python app.py
 
 ## 👨‍💻 Authors & Contact
 
-**Pijush Kanti Roy Partho**, **Pankaj Bhowmik**  
+**Pijush Kanti Roy Partho**
 Hajee Mohammad Danesh Science and Technology University, Dinajpur, Bangladesh  
-📧 pijushkantiroy2040@gmail.com | pankaj.cshstu@gmail.com
+📧 pijushkantiroy2040@gmail.com 
 
 ---
 
