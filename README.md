@@ -123,5 +123,5 @@ Hajee Mohammad Danesh Science and Technology University, Dinajpur, Bangladesh
 If you use this work in your research or project, please cite the original paper:
 
 > **HypeXAI: A Real-Time Explainable AI Framework for Accurate Hypertension Prediction**  
-> _Pijush Kanti Roy Partho, Pankaj Bhowmik_  
+> _Pijush Kanti Roy Partho 
 > Hajee Mohammad Danesh Science and Technology University, Dinajpur, Bangladesh
